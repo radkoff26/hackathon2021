@@ -1,0 +1,15 @@
+com/example/learnenglishlistening/Adapter.java
+ com.example.learnenglishlistening.Adapter
+com/example/learnenglishlistening/EnglishWord.java
+ com.example.learnenglishlistening.EnglishWord
+com/example/learnenglishlistening/MainActivity.java
+ com.example.learnenglishlistening.MainActivity
+ com.example.learnenglishlistening.MainActivity$1
+com/example/learnenglishlistening/AdditionalDeserializer.java
+ com.example.learnenglishlistening.AdditionalDeserializer
+com/example/learnenglishlistening/SpeechImageView.java
+ com.example.learnenglishlistening.SpeechImageView
+com/example/learnenglishlistening/ClientAPI.java
+ com.example.learnenglishlistening.ClientAPI
+com/example/learnenglishlistening/BuildConfig.java
+ com.example.learnenglishlistening.BuildConfig
